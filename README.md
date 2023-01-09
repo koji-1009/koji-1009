@@ -24,4 +24,4 @@ I have a passion for mobile  and web front-end apps.
 
 ## Stats
 
-![koji-1009's GitHub stats](https://github-readme-stats.vercel.app/api?username=koji-1009&count_private=true&show_icons=true)
+![koji-1009's GitHub stats](https://github-readme-stats.vercel.app/api?username=koji-1009&count_private=true&show_icons=true&theme=transparent)
