@@ -12,6 +12,7 @@ I have a passion for mobile  and web front-end apps.
     - [iso8601_offset](https://github.com/koji-1009/iso8601_offset)
     - [encrypt_file_loader](https://github.com/koji-1009/encrypt_file_loader)
     - [http_hive_cache](https://github.com/koji-1009/http_hive_cache)
+    - [switchable_padding](https://github.com/koji-1009/switchable_padding)
   - apps
     - [flutter_kokkai_gijiroku](https://github.com/koji-1009/flutter_kokkai_gijiroku)
     - [color_bg](https://github.com/koji-1009/color_bg)
